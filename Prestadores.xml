@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Prestadores>
+  <Prestador>
+    <CPF>111.111.111-11</CPF>
+    <NomeProfissional>JOÃO DA SILVA</NomeProfissional>
+    <Empresa>SILVA CONSULTORIA EM INFORMÁTICA LTDA</Empresa>
+    <CNPJ>11.111.111/1111-11</CNPJ>
+    <Cidade>São Paulo</Cidade>
+    <Estado>SP</Estado>
+    <InscricaoEstadual>1111-1</InscricaoEstadual>
+  </Prestador>
+  <Prestador>
+    <CPF>222.222.222-22</CPF>
+    <NomeProfissional>JOAQUIM DE OLIVEIRA</NomeProfissional>
+    <Empresa>SERVIÇOS DE TECNOLOGIA OLIVEIRA ME</Empresa>
+    <CNPJ>22.222.222/2222-22</CNPJ>
+    <Cidade>Belo Horizonte</Cidade>
+    <Estado>MG</Estado>
+    <InscricaoEstadual></InscricaoEstadual>
+  </Prestador>
+  <Prestador>
+    <CPF>333.333.333-33</CPF>
+    <NomeProfissional>MARIA MARTINS</NomeProfissional>
+    <Empresa>MARTINS TECNOLOGIA LTDA</Empresa>
+    <CNPJ>33.333.333/3333-33</CNPJ>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Estado>RJ</Estado>
+    <InscricaoEstadual>33333</InscricaoEstadual>
+  </Prestador>
+  <Prestador>
+    <CPF>444.444.444-44</CPF>
+    <NomeProfissional>JOANA SANTOS</NomeProfissional>
+    <Empresa>CONSULTORIA SANTOS LTDA</Empresa>
+    <CNPJ>44.444.444/4444-44</CNPJ>
+    <Cidade>São Paulo</Cidade>
+    <Estado>SP</Estado>
+    <InscricaoEstadual></InscricaoEstadual>
+  </Prestador>
+</Prestadores>
